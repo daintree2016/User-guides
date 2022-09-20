@@ -1,1 +1,14 @@
+chrome excites abnormally may be due to the following reasons:
 
+1. if you see the following error in the black window then it means the chrome version update took place, the chrome driver/drivers need to be updated.
+
+2. In order to update the drivers please visit the website link given below. on before hand check the current chrome browser version by typing "chrome://version" in a fresh chrome browser tab
+LINK: https://chromedriver.chromium.org/downloads 
+
+3.now open the link check for the current version you have seen in the chrome tab in the website and click on the link it redirects you to available dowloads.
+for windows: one has to select the 32bit windows version zip file. 
+
+4.when the download begins extract the folder and copy the chromedriver.exe
+and simply replace the chromedriver with the driver2 folder of the program file.
+
+ 
